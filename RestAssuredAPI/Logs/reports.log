@@ -1,0 +1,346 @@
+2019-05-25 14:57:53 INFO  :18 - Execiution TC001_GET
+2019-05-25 15:01:35 INFO  :18 - Execiution TC001_GET
+2019-05-25 15:05:25 INFO  SampleTest:18 - Execiution TC001_GET
+2019-05-25 15:08:25 INFO  SampleTest:18 - Execiution TC001_GET
+2019-05-25 15:11:17 INFO  SampleTest:18 - Execiution TC001_GET
+2019-05-25 15:16:18 INFO  SampleTest:18 - Execiution TC001_GET
+2019-05-25 15:19:28 INFO  SampleTest:18 - Execiution TC001_GET
+2019-05-25 15:19:31 INFO  SampleTest:67 - &&&&& Verifying Content Type
+2019-05-25 15:19:31 INFO  SampleTest:69 - Content type is :text/html;charset=UTF-8
+2019-05-25 15:19:31 INFO  SampleTest:29 - &&&&& Verifying Response Body
+2019-05-25 15:19:31 INFO  SampleTest:31 - <html>
+    <head>
+        <title>Page Not Found</title>
+        <style>
+            body{
+                margin:0;
+                padding:30px;
+                font:12px/1.5 Helvetica,Arial,Verdana,sans-serif;
+            }
+            h1{
+                margin:0;
+                font-size:48px;
+                font-weight:normal;
+                line-height:48px;
+            }
+            strong{
+                display:inline-block;
+                width:65px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Page Not Found</h1>
+        <p>
+            The page you are looking for could not be found. Check the address bar
+            to ensure your URL is spelled correctly. If all else fails, you can
+            visit our home page at the link below.
+        </p>
+        <a href='http://dummy.restapiexample.com/'>Visit the Home Page</a>
+    </body>
+</html>
+2019-05-25 15:19:31 INFO  SampleTest:38 - &&&&& Verifying Status Code
+2019-05-25 15:19:31 INFO  SampleTest:40 - 404
+2019-05-25 15:20:39 INFO  SampleTest:18 - Execiution TC001_GET
+2019-05-25 15:20:42 INFO  SampleTest:67 - &&&&& Verifying Content Type
+2019-05-25 15:20:42 INFO  SampleTest:69 - Content type is :text/html; charset=UTF-8
+2019-05-25 15:20:42 INFO  SampleTest:29 - &&&&& Verifying Response Body
+2019-05-25 15:20:42 INFO  SampleTest:31 - [{"id":"10661","employee_name":"Anton1","employee_salary":"20000","employee_age":"100","profile_image":""},{"id":"10663","employee_name":"Anton2","employee_salary":"2000","employee_age":"20","profile_image":""},{"id":"10665","employee_name":"RaviSankarUpdated","employee_salary":"150000","employee_age":"23","profile_image":""},{"id":"10666","employee_name":"Raa","employee_salary":"526000","employee_age":"33","profile_image":""},{"id":"10667","employee_name":"Purna","employee_salary":"51","employee_age":"23","profile_image":""},{"id":"10670","employee_name":"EMP1","employee_salary":"25000","employee_age":"25","profile_image":""},{"id":"10676","employee_name":"RaviSankar","employee_salary":"50000","employee_age":"23","profile_image":""},{"id":"10677","employee_name":"Nagarajan Palavesam","employee_salary":"50000","employee_age":"27","profile_image":""},{"id":"10680","employee_name":"Pattanayak","employee_salary":"124543","employee_age":"22","profile_image":""},{"id":"10682","employee_name":"Anton","employee_salary":"4500","employee_age":"40","profile_image":""},{"id":"10683","employee_name":"Vadim","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10684","employee_name":"Ruslan","employee_salary":"3454","employee_age":"18","profile_image":""},{"id":"10685","employee_name":"Anton77","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10686","employee_name":"Anton78","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10687","employee_name":"Anton71","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10688","employee_name":"rahul","employee_salary":"6000","employee_age":"56","profile_image":""},{"id":"10689","employee_name":"Anton33","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10691","employee_name":"cxascac","employee_salary":"3333","employee_age":"33","profile_image":""},{"id":"10692","employee_name":"Anton355","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10693","employee_name":"Anton356","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10694","employee_name":"George","employee_salary":"22033","employee_age":"40","profile_image":""},{"id":"10695","employee_name":"testqwer","employee_salary":"1233","employee_age":"123","profile_image":""},{"id":"10697","employee_name":"tesdddtqwer","employee_salary":"1233","employee_age":"123","profile_image":""},{"id":"10698","employee_name":"Amit Negi111","employee_salary":"123456","employee_age":"44","profile_image":""},{"id":"10701","employee_name":"Anton352","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10704","employee_name":"Anton3577","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10717","employee_name":"Mat1","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10718","employee_name":"Andrey1","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10721","employee_name":"Andrey2","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10722","employee_name":"Andrey3","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10723","employee_name":"Andrey55","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10724","employee_name":"Andrey5666","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10738","employee_name":"Andrey56633","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10739","employee_name":"Andrey566333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10740","employee_name":"Andrey561333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10741","employee_name":"Mat21","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10742","employee_name":"Slava123","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10743","employee_name":"Andrey56123333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10744","employee_name":"Mat2431","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10745","employee_name":"Slava12343","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10747","employee_name":"Andrey56123f333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10748","employee_name":"Fahriansyah","employee_salary":"1200000","employee_age":"18","profile_image":""},{"id":"10750","employee_name":"daniyal","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"10751","employee_name":"PerfTestJmeter","employee_salary":"1123","employee_age":"28","profile_image":""},{"id":"10752","employee_name":"test","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"10768","employee_name":"Andrey5612ff3f333","employee_salary":"1000","employee_age":"25","profile_image":""}]
+2019-05-25 15:20:42 INFO  SampleTest:38 - &&&&& Verifying Status Code
+2019-05-25 15:20:42 INFO  SampleTest:40 - 200
+2019-05-25 15:24:48 INFO  SampleTest:18 - -------Execiution TC001_GET------
+2019-05-25 15:24:51 INFO  SampleTest:66 - &&&&& :Verifying Content Type :&&&&&
+2019-05-25 15:24:51 INFO  SampleTest:68 - Content type is :text/html; charset=UTF-8
+2019-05-25 15:24:51 INFO  SampleTest:28 - &&&&& Verifying Response Body &&&& 
+2019-05-25 15:24:51 INFO  SampleTest:30 - [{"id":"10661","employee_name":"Anton1","employee_salary":"20000","employee_age":"100","profile_image":""},{"id":"10663","employee_name":"Anton2","employee_salary":"2000","employee_age":"20","profile_image":""},{"id":"10665","employee_name":"RaviSankarUpdated","employee_salary":"150000","employee_age":"23","profile_image":""},{"id":"10666","employee_name":"Raa","employee_salary":"526000","employee_age":"33","profile_image":""},{"id":"10667","employee_name":"Purna","employee_salary":"51","employee_age":"23","profile_image":""},{"id":"10670","employee_name":"EMP1","employee_salary":"25000","employee_age":"25","profile_image":""},{"id":"10676","employee_name":"RaviSankar","employee_salary":"50000","employee_age":"23","profile_image":""},{"id":"10677","employee_name":"Nagarajan Palavesam","employee_salary":"50000","employee_age":"27","profile_image":""},{"id":"10680","employee_name":"Pattanayak","employee_salary":"124543","employee_age":"22","profile_image":""},{"id":"10682","employee_name":"Anton","employee_salary":"4500","employee_age":"40","profile_image":""},{"id":"10683","employee_name":"Vadim","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10684","employee_name":"Ruslan","employee_salary":"3454","employee_age":"18","profile_image":""},{"id":"10685","employee_name":"Anton77","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10686","employee_name":"Anton78","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10687","employee_name":"Anton71","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10688","employee_name":"rahul","employee_salary":"6000","employee_age":"56","profile_image":""},{"id":"10689","employee_name":"Anton33","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10691","employee_name":"cxascac","employee_salary":"3333","employee_age":"33","profile_image":""},{"id":"10692","employee_name":"Anton355","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10693","employee_name":"Anton356","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10694","employee_name":"George","employee_salary":"22033","employee_age":"40","profile_image":""},{"id":"10695","employee_name":"testqwer","employee_salary":"1233","employee_age":"123","profile_image":""},{"id":"10697","employee_name":"tesdddtqwer","employee_salary":"1233","employee_age":"123","profile_image":""},{"id":"10698","employee_name":"Amit Negi111","employee_salary":"123456","employee_age":"44","profile_image":""},{"id":"10701","employee_name":"Anton352","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10704","employee_name":"Anton3577","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10717","employee_name":"Mat1","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10718","employee_name":"Andrey1","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10721","employee_name":"Andrey2","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10722","employee_name":"Andrey3","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10723","employee_name":"Andrey55","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10724","employee_name":"Andrey5666","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10738","employee_name":"Andrey56633","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10739","employee_name":"Andrey566333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10740","employee_name":"Andrey561333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10741","employee_name":"Mat21","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10742","employee_name":"Slava123","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10743","employee_name":"Andrey56123333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10744","employee_name":"Mat2431","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10745","employee_name":"Slava12343","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10747","employee_name":"Andrey56123f333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10748","employee_name":"Fahriansyah","employee_salary":"1200000","employee_age":"18","profile_image":""},{"id":"10750","employee_name":"daniyal","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"10751","employee_name":"PerfTestJmeter","employee_salary":"1123","employee_age":"28","profile_image":""},{"id":"10752","employee_name":"test","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"10768","employee_name":"Andrey5612ff3f333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10772","employee_name":"And","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10773","employee_name":"Ma","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10774","employee_name":"Svy","employee_salary":"3500","employee_age":"50","profile_image":""}]
+2019-05-25 15:24:51 INFO  SampleTest:37 - &&&&& Verifying Status Code *****
+2019-05-25 15:24:51 INFO  SampleTest:39 - 200
+2019-05-25 15:31:23 INFO  SampleTest:18 - -------Execiution TC001_GET------
+2019-05-25 15:31:25 INFO  SampleTest:66 - &&&&& :Verifying Content Type :&&&&&
+2019-05-25 15:31:25 INFO  SampleTest:68 - Content type is :text/html; charset=UTF-8
+2019-05-25 15:31:25 INFO  SampleTest:28 - &&&&& Verifying Response Body &&&& 
+2019-05-25 15:31:25 INFO  SampleTest:30 - [{"id":"10661","employee_name":"Anto","employee_salary":"30000","employee_age":"12","profile_image":""},{"id":"10663","employee_name":"Anton2","employee_salary":"2000","employee_age":"20","profile_image":""},{"id":"10665","employee_name":"RaviSankarUpdated","employee_salary":"150000","employee_age":"23","profile_image":""},{"id":"10666","employee_name":"Raa","employee_salary":"526000","employee_age":"33","profile_image":""},{"id":"10667","employee_name":"Purna","employee_salary":"51","employee_age":"23","profile_image":""},{"id":"10670","employee_name":"EMP1","employee_salary":"25000","employee_age":"25","profile_image":""},{"id":"10676","employee_name":"RaviSankar","employee_salary":"50000","employee_age":"23","profile_image":""},{"id":"10677","employee_name":"Nagarajan Palavesam","employee_salary":"50000","employee_age":"27","profile_image":""},{"id":"10680","employee_name":"Pattanayak","employee_salary":"124543","employee_age":"22","profile_image":""},{"id":"10682","employee_name":"Anton","employee_salary":"4500","employee_age":"40","profile_image":""},{"id":"10683","employee_name":"Vadim","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10684","employee_name":"Ruslan","employee_salary":"3454","employee_age":"18","profile_image":""},{"id":"10685","employee_name":"Anton77","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10686","employee_name":"Anton78","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10687","employee_name":"Anton71","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10688","employee_name":"rahul","employee_salary":"6000","employee_age":"56","profile_image":""},{"id":"10689","employee_name":"Anton33","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10691","employee_name":"cxascac","employee_salary":"3333","employee_age":"33","profile_image":""},{"id":"10692","employee_name":"Anton355","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10693","employee_name":"Anton356","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10694","employee_name":"George","employee_salary":"22033","employee_age":"40","profile_image":""},{"id":"10695","employee_name":"testqwer","employee_salary":"1233","employee_age":"123","profile_image":""},{"id":"10697","employee_name":"tesdddtqwer","employee_salary":"1233","employee_age":"123","profile_image":""},{"id":"10698","employee_name":"Amit Negi111","employee_salary":"123456","employee_age":"44","profile_image":""},{"id":"10701","employee_name":"Anton352","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10704","employee_name":"Anton3577","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10717","employee_name":"Mat1","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10718","employee_name":"Andrey1","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10721","employee_name":"Andrey2","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10722","employee_name":"Andrey3","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10723","employee_name":"Andrey55","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10724","employee_name":"Andrey5666","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10738","employee_name":"Andrey56633","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10739","employee_name":"Andrey566333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10740","employee_name":"Andrey561333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10741","employee_name":"Mat21","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10742","employee_name":"Slava123","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10743","employee_name":"Andrey56123333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10744","employee_name":"Mat2431","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10745","employee_name":"Slava12343","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10747","employee_name":"Andrey56123f333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10748","employee_name":"Fahriansyah","employee_salary":"1200000","employee_age":"18","profile_image":""},{"id":"10750","employee_name":"daniyal","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"10751","employee_name":"PerfTestJmeter","employee_salary":"1123","employee_age":"28","profile_image":""},{"id":"10752","employee_name":"test","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"10768","employee_name":"Andrey5612ff3f333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10772","employee_name":"And","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10773","employee_name":"Ma","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10774","employee_name":"Svy","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10780","employee_name":"Andw","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10781","employee_name":"Mar","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10782","employee_name":"Svrwy","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10788","employee_name":"Anfdw","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10789","employee_name":"Marsffd","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10790","employee_name":"Svrwsdfy","employee_salary":"3500","employee_age":"50","profile_image":""}]
+2019-05-25 15:31:25 INFO  SampleTest:37 - &&&&& Verifying Status Code *****
+2019-05-25 15:31:25 INFO  SampleTest:39 - 200
+2019-05-25 15:34:52 INFO  SampleTest:18 - -------Execiution TC001_GET------
+2019-05-25 15:34:55 INFO  SampleTest:66 - &&&&& :Verifying Content Type :&&&&&
+2019-05-25 15:34:55 INFO  SampleTest:68 - Content type is :text/html; charset=UTF-8
+2019-05-25 15:34:55 INFO  SampleTest:28 - &&&&& Verifying Response Body &&&& 
+2019-05-25 15:34:55 INFO  SampleTest:30 - [{"id":"10661","employee_name":"Anto","employee_salary":"30000","employee_age":"12","profile_image":""},{"id":"10663","employee_name":"Anton2","employee_salary":"2000","employee_age":"20","profile_image":""},{"id":"10665","employee_name":"RaviSankarUpdated","employee_salary":"150000","employee_age":"23","profile_image":""},{"id":"10666","employee_name":"Raa","employee_salary":"526000","employee_age":"33","profile_image":""},{"id":"10667","employee_name":"Purna","employee_salary":"51","employee_age":"23","profile_image":""},{"id":"10670","employee_name":"EMP1","employee_salary":"25000","employee_age":"25","profile_image":""},{"id":"10676","employee_name":"RaviSankar","employee_salary":"50000","employee_age":"23","profile_image":""},{"id":"10677","employee_name":"Nagarajan Palavesam","employee_salary":"50000","employee_age":"27","profile_image":""},{"id":"10680","employee_name":"Pattanayak","employee_salary":"124543","employee_age":"22","profile_image":""},{"id":"10682","employee_name":"Anton","employee_salary":"4500","employee_age":"40","profile_image":""},{"id":"10683","employee_name":"Vadim","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10684","employee_name":"Ruslan","employee_salary":"3454","employee_age":"18","profile_image":""},{"id":"10685","employee_name":"Anton77","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10686","employee_name":"Anton78","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10687","employee_name":"Anton71","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10688","employee_name":"rahul","employee_salary":"6000","employee_age":"56","profile_image":""},{"id":"10689","employee_name":"Anton33","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10691","employee_name":"cxascac","employee_salary":"3333","employee_age":"33","profile_image":""},{"id":"10692","employee_name":"Anton355","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10693","employee_name":"Anton356","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10694","employee_name":"George","employee_salary":"22033","employee_age":"40","profile_image":""},{"id":"10695","employee_name":"testqwer","employee_salary":"1233","employee_age":"123","profile_image":""},{"id":"10697","employee_name":"tesdddtqwer","employee_salary":"1233","employee_age":"123","profile_image":""},{"id":"10698","employee_name":"Amit Negi111","employee_salary":"123456","employee_age":"44","profile_image":""},{"id":"10701","employee_name":"Anton352","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10704","employee_name":"Anton3577","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10717","employee_name":"Mat1","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10718","employee_name":"Andrey1","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10721","employee_name":"Andrey2","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10722","employee_name":"Andrey3","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10723","employee_name":"Andrey55","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10724","employee_name":"Andrey5666","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10738","employee_name":"Andrey56633","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10739","employee_name":"Andrey566333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10740","employee_name":"Andrey561333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10741","employee_name":"Mat21","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10742","employee_name":"Slava123","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10743","employee_name":"Andrey56123333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10744","employee_name":"Mat2431","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10745","employee_name":"Slava12343","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10747","employee_name":"Andrey56123f333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10748","employee_name":"Fahriansyah","employee_salary":"1200000","employee_age":"18","profile_image":""},{"id":"10750","employee_name":"daniyal","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"10751","employee_name":"PerfTestJmeter","employee_salary":"1123","employee_age":"28","profile_image":""},{"id":"10752","employee_name":"test","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"10768","employee_name":"Andrey5612ff3f333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10772","employee_name":"And","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10773","employee_name":"Ma","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10774","employee_name":"Svy","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10780","employee_name":"Andw","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10781","employee_name":"Mar","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10782","employee_name":"Svrwy","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10788","employee_name":"Anfdw","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10789","employee_name":"Marsffd","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10790","employee_name":"Svrwsdfy","employee_salary":"3500","employee_age":"50","profile_image":""}]
+2019-05-25 15:34:55 INFO  SampleTest:37 - &&&&& Verifying Status Code *****
+2019-05-25 15:34:55 INFO  SampleTest:39 - 200
+2019-05-25 15:40:42 INFO  SampleTest:18 - -------Execiution TC001_GET------
+2019-05-25 15:40:45 INFO  SampleTest:22 - All Employee Details :io.restassured.internal.RestAssuredResponseImpl@43f82e78
+2019-05-25 15:40:45 INFO  SampleTest:67 - &&&&& :Verifying Content Type :&&&&&
+2019-05-25 15:40:45 INFO  SampleTest:69 - Content type is :text/html; charset=UTF-8
+2019-05-25 15:40:45 INFO  SampleTest:29 - &&&&& Verifying Response Body &&&& 
+2019-05-25 15:40:45 INFO  SampleTest:31 - ResponseBody is :[{"id":"10661","employee_name":"Anto","employee_salary":"30000","employee_age":"12","profile_image":""},{"id":"10663","employee_name":"Anton2","employee_salary":"2000","employee_age":"20","profile_image":""},{"id":"10665","employee_name":"RaviSankarUpdated","employee_salary":"150000","employee_age":"23","profile_image":""},{"id":"10666","employee_name":"Raa","employee_salary":"526000","employee_age":"33","profile_image":""},{"id":"10667","employee_name":"Purna","employee_salary":"51","employee_age":"23","profile_image":""},{"id":"10670","employee_name":"EMP1","employee_salary":"25000","employee_age":"25","profile_image":""},{"id":"10676","employee_name":"RaviSankar","employee_salary":"50000","employee_age":"23","profile_image":""},{"id":"10677","employee_name":"Nagarajan Palavesam","employee_salary":"50000","employee_age":"27","profile_image":""},{"id":"10680","employee_name":"Pattanayak","employee_salary":"124543","employee_age":"22","profile_image":""},{"id":"10682","employee_name":"Anton","employee_salary":"4500","employee_age":"40","profile_image":""},{"id":"10683","employee_name":"Vadim","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10684","employee_name":"Ruslan","employee_salary":"3454","employee_age":"18","profile_image":""},{"id":"10685","employee_name":"Anton77","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10686","employee_name":"Anton78","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10687","employee_name":"Anton71","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10688","employee_name":"rahul","employee_salary":"6000","employee_age":"56","profile_image":""},{"id":"10689","employee_name":"Anton33","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10691","employee_name":"cxascac","employee_salary":"3333","employee_age":"33","profile_image":""},{"id":"10692","employee_name":"Anton355","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10693","employee_name":"Anton356","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10694","employee_name":"George","employee_salary":"22033","employee_age":"40","profile_image":""},{"id":"10695","employee_name":"testqwer","employee_salary":"1233","employee_age":"123","profile_image":""},{"id":"10697","employee_name":"tesdddtqwer","employee_salary":"1233","employee_age":"123","profile_image":""},{"id":"10698","employee_name":"Amit Negi111","employee_salary":"123456","employee_age":"44","profile_image":""},{"id":"10701","employee_name":"Anton352","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10704","employee_name":"Anton3577","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10717","employee_name":"Mat1","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10718","employee_name":"Andrey1","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10721","employee_name":"Andrey2","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10722","employee_name":"Andrey3","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10723","employee_name":"Andrey55","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10724","employee_name":"Andrey5666","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10738","employee_name":"Andrey56633","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10739","employee_name":"Andrey566333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10740","employee_name":"Andrey561333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10741","employee_name":"Mat21","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10742","employee_name":"Slava123","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10743","employee_name":"Andrey56123333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10744","employee_name":"Mat2431","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10745","employee_name":"Slava12343","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10747","employee_name":"Andrey56123f333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10748","employee_name":"Fahriansyah","employee_salary":"1200000","employee_age":"18","profile_image":""},{"id":"10750","employee_name":"daniyal","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"10751","employee_name":"PerfTestJmeter","employee_salary":"1123","employee_age":"28","profile_image":""},{"id":"10752","employee_name":"test","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"10768","employee_name":"Andrey5612ff3f333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10772","employee_name":"And","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10773","employee_name":"Ma","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10774","employee_name":"Svy","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10780","employee_name":"Andw","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10781","employee_name":"Mar","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10782","employee_name":"Svrwy","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10788","employee_name":"Anfdw","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10789","employee_name":"Marsffd","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10790","employee_name":"Svrwsdfy","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10799","employee_name":"testhjsj","employee_salary":"123","employee_age":"23","profile_image":""}]
+2019-05-25 15:40:45 INFO  SampleTest:38 - &&&&& Verifying Status Code *****
+2019-05-25 15:40:45 INFO  SampleTest:40 - 200
+2019-05-25 15:47:53 INFO  SampleTest:18 - -------Execiution TC001_GET------
+2019-05-25 15:47:55 INFO  SampleTest:22 - All Employee Details :io.restassured.internal.RestAssuredResponseImpl@e54303
+2019-05-25 15:47:55 INFO  SampleTest:67 - &&&&& :Verifying Content Type :&&&&&
+2019-05-25 15:47:55 INFO  SampleTest:69 - Content type is :text/html; charset=UTF-8
+2019-05-25 15:47:55 INFO  SampleTest:29 - &&&&& Verifying Response Body &&&& 
+2019-05-25 15:47:55 INFO  SampleTest:31 - ResponseBody is :[{"id":"10663","employee_name":"Anton2","employee_salary":"2000","employee_age":"20","profile_image":""},{"id":"10665","employee_name":"RaviSankarUpdated","employee_salary":"150000","employee_age":"23","profile_image":""},{"id":"10666","employee_name":"Raa","employee_salary":"526000","employee_age":"33","profile_image":""},{"id":"10667","employee_name":"Purna","employee_salary":"51","employee_age":"23","profile_image":""},{"id":"10670","employee_name":"EMP1","employee_salary":"25000","employee_age":"25","profile_image":""},{"id":"10676","employee_name":"RaviSankar","employee_salary":"50000","employee_age":"23","profile_image":""},{"id":"10677","employee_name":"Nagarajan Palavesam","employee_salary":"50000","employee_age":"27","profile_image":""},{"id":"10680","employee_name":"Pattanayak","employee_salary":"124543","employee_age":"22","profile_image":""},{"id":"10682","employee_name":"Anton","employee_salary":"4500","employee_age":"40","profile_image":""},{"id":"10683","employee_name":"Vadim","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10684","employee_name":"Ruslan","employee_salary":"3454","employee_age":"18","profile_image":""},{"id":"10685","employee_name":"Anton77","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10686","employee_name":"Anton78","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10687","employee_name":"Anton71","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10688","employee_name":"rahul","employee_salary":"6000","employee_age":"56","profile_image":""},{"id":"10689","employee_name":"Anton33","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10691","employee_name":"cxascac","employee_salary":"3333","employee_age":"33","profile_image":""},{"id":"10692","employee_name":"Anton355","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10693","employee_name":"Anton356","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10694","employee_name":"George","employee_salary":"22033","employee_age":"40","profile_image":""},{"id":"10695","employee_name":"testqwer","employee_salary":"1233","employee_age":"123","profile_image":""},{"id":"10697","employee_name":"tesdddtqwer","employee_salary":"1233","employee_age":"123","profile_image":""},{"id":"10698","employee_name":"Amit Negi111","employee_salary":"123456","employee_age":"44","profile_image":""},{"id":"10701","employee_name":"Anton352","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10704","employee_name":"Anton3577","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10717","employee_name":"Mat1","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10718","employee_name":"Andrey1","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10721","employee_name":"Andrey2","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10722","employee_name":"Andrey3","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10723","employee_name":"Andrey55","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10724","employee_name":"Andrey5666","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10738","employee_name":"Andrey56633","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10739","employee_name":"Andrey566333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10740","employee_name":"Andrey561333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10741","employee_name":"Mat21","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10742","employee_name":"Slava123","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10743","employee_name":"Andrey56123333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10744","employee_name":"Mat2431","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10745","employee_name":"Slava12343","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10747","employee_name":"Andrey56123f333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10748","employee_name":"Fahriansyah","employee_salary":"1200000","employee_age":"18","profile_image":""},{"id":"10750","employee_name":"daniyal","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"10751","employee_name":"PerfTestJmeter","employee_salary":"1123","employee_age":"28","profile_image":""},{"id":"10752","employee_name":"test","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"10768","employee_name":"Andrey5612ff3f333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10772","employee_name":"And","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10773","employee_name":"Ma","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10774","employee_name":"Svy","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10780","employee_name":"Andw","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10781","employee_name":"Mar","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10782","employee_name":"Svrwy","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10788","employee_name":"Anfdw","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10789","employee_name":"Marsffd","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10790","employee_name":"Svrwsdfy","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10799","employee_name":"testhjsj","employee_salary":"123","employee_age":"23","profile_image":""}]
+2019-05-25 15:47:56 INFO  SampleTest:38 - &&&&& Verifying Status Code *****
+2019-05-25 15:47:56 INFO  SampleTest:40 - 200
+2019-05-25 15:47:56 INFO  SampleTest:85 - ContentEncoding is :gzip
+2019-05-25 15:47:56 INFO  SampleTest:77 - Server Type is:nginx/1.14.1
+2019-05-25 15:49:07 INFO  SampleTest:18 - -------Execiution TC001_GET------
+2019-05-25 15:49:09 INFO  SampleTest:22 - All Employee Details :io.restassured.internal.RestAssuredResponseImpl@e54303
+2019-05-25 15:49:09 INFO  SampleTest:67 - &&&&& :Verifying Content Type :&&&&&
+2019-05-25 15:49:09 INFO  SampleTest:69 - Content type is :text/html; charset=UTF-8
+2019-05-25 15:49:09 INFO  SampleTest:29 - &&&&& Verifying Response Body &&&& 
+2019-05-25 15:49:09 INFO  SampleTest:31 - ResponseBody is :[{"id":"10663","employee_name":"Anton2","employee_salary":"2000","employee_age":"20","profile_image":""},{"id":"10665","employee_name":"RaviSankarUpdated","employee_salary":"150000","employee_age":"23","profile_image":""},{"id":"10666","employee_name":"Raa","employee_salary":"526000","employee_age":"33","profile_image":""},{"id":"10667","employee_name":"Purna","employee_salary":"51","employee_age":"23","profile_image":""},{"id":"10670","employee_name":"EMP1","employee_salary":"25000","employee_age":"25","profile_image":""},{"id":"10676","employee_name":"RaviSankar","employee_salary":"50000","employee_age":"23","profile_image":""},{"id":"10677","employee_name":"Nagarajan Palavesam","employee_salary":"50000","employee_age":"27","profile_image":""},{"id":"10680","employee_name":"Pattanayak","employee_salary":"124543","employee_age":"22","profile_image":""},{"id":"10682","employee_name":"Anton","employee_salary":"4500","employee_age":"40","profile_image":""},{"id":"10683","employee_name":"Vadim","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10684","employee_name":"Ruslan","employee_salary":"3454","employee_age":"18","profile_image":""},{"id":"10685","employee_name":"Anton77","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10686","employee_name":"Anton78","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10687","employee_name":"Anton71","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10688","employee_name":"rahul","employee_salary":"6000","employee_age":"56","profile_image":""},{"id":"10689","employee_name":"Anton33","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10691","employee_name":"cxascac","employee_salary":"3333","employee_age":"33","profile_image":""},{"id":"10692","employee_name":"Anton355","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10693","employee_name":"Anton356","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10694","employee_name":"George","employee_salary":"22033","employee_age":"40","profile_image":""},{"id":"10695","employee_name":"testqwer","employee_salary":"1233","employee_age":"123","profile_image":""},{"id":"10697","employee_name":"tesdddtqwer","employee_salary":"1233","employee_age":"123","profile_image":""},{"id":"10698","employee_name":"Amit Negi111","employee_salary":"123456","employee_age":"44","profile_image":""},{"id":"10701","employee_name":"Anton352","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10704","employee_name":"Anton3577","employee_salary":"20000","employee_age":"25","profile_image":""},{"id":"10717","employee_name":"Mat1","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10718","employee_name":"Andrey1","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10721","employee_name":"Andrey2","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10722","employee_name":"Andrey3","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10723","employee_name":"Andrey55","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10724","employee_name":"Andrey5666","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10738","employee_name":"Andrey56633","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10739","employee_name":"Andrey566333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10740","employee_name":"Andrey561333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10741","employee_name":"Mat21","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10742","employee_name":"Slava123","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10743","employee_name":"Andrey56123333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10744","employee_name":"Mat2431","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10745","employee_name":"Slava12343","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10747","employee_name":"Andrey56123f333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10748","employee_name":"Fahriansyah","employee_salary":"1200000","employee_age":"18","profile_image":""},{"id":"10750","employee_name":"daniyal","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"10751","employee_name":"PerfTestJmeter","employee_salary":"1123","employee_age":"28","profile_image":""},{"id":"10752","employee_name":"test","employee_salary":"123","employee_age":"23","profile_image":""},{"id":"10768","employee_name":"Andrey5612ff3f333","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10772","employee_name":"And","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10773","employee_name":"Ma","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10774","employee_name":"Svy","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10780","employee_name":"Andw","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10781","employee_name":"Mar","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10782","employee_name":"Svrwy","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10788","employee_name":"Anfdw","employee_salary":"1000","employee_age":"25","profile_image":""},{"id":"10789","employee_name":"Marsffd","employee_salary":"3000","employee_age":"30","profile_image":""},{"id":"10790","employee_name":"Svrwsdfy","employee_salary":"3500","employee_age":"50","profile_image":""},{"id":"10799","employee_name":"testhjsj","employee_salary":"123","employee_age":"23","profile_image":""}]
+2019-05-25 15:49:09 INFO  SampleTest:38 - &&&&& Verifying Status Code *****
+2019-05-25 15:49:09 INFO  SampleTest:40 - 200
+2019-05-25 15:49:09 INFO  SampleTest:85 - &&&&& :Verifying Content-Encoding: :&&&&&
+2019-05-25 15:49:09 INFO  SampleTest:87 - ContentEncoding is :gzip
+2019-05-25 15:49:09 INFO  SampleTest:76 - &&&&& :Verifying Server: :&&&&&
+2019-05-25 15:49:09 INFO  SampleTest:78 - Server Type is:nginx/1.14.1
+2019-05-25 16:23:18 INFO  SampleTest:21 - &&&&& TC 002 - Execution : &&&& bb
+2019-05-25 16:42:08 INFO  SampleTest:23 - &&&&& TC 002 - Execution : &&&& bb
+2019-05-25 16:42:16 INFO  SampleTest:40 - -- Verify Response Body -----------
+2019-05-25 16:42:16 INFO  SampleTest:42 - POST Message:{"name":"EmployeeName:K","salary":"22858","age":"Un","id":"10849"}
+2019-05-25 16:51:16 INFO  SampleTest:23 - &&&&&-------:  TC 002-Execution : &&&&------
+2019-05-25 16:51:24 INFO  SampleTest:40 - -- Verify Response Body -----------
+2019-05-25 16:51:24 INFO  SampleTest:42 - POST Message:{"name":"EmployeeName:g","salary":"38949","age":"al","id":"10869"}
+2019-05-25 16:51:24 INFO  SampleTest:62 - Status Code is :200
+2019-05-25 16:51:24 INFO  SampleTest:69 - -----  : TESTCASE 02 Execution Completed: ----------
+2019-05-25 16:53:48 INFO  SampleTest:23 - &&&&&-------:  TC 002-Execution : &&&&------
+2019-05-25 16:53:58 INFO  SampleTest:69 - -----  : TESTCASE 02 Execution Completed: ----------
+2019-05-25 16:53:58 INFO  SampleTest:40 - -- Verify Response Body -----------
+2019-05-25 16:53:58 INFO  SampleTest:42 - POST Message:{"name":"EmployeeName:O","salary":"11703","age":"qT","id":"10873"}
+2019-05-25 16:53:58 INFO  SampleTest:62 - Status Code is :200
+2019-05-25 16:54:57 INFO  SampleTest:23 - &&&&&-------:  TC 002-Execution : &&&&------
+2019-05-25 16:55:04 INFO  SampleTest:40 - -- Verify Response Body -----------
+2019-05-25 16:55:04 INFO  SampleTest:42 - POST Message:{"name":"EmployeeName:W","salary":"97522","age":"sn","id":"10877"}
+2019-05-25 16:55:04 INFO  SampleTest:62 - Status Code is :200
+2019-05-25 16:55:04 INFO  SampleTest:69 - -----  : TESTCASE 02 Execution Completed: ----------
+2019-05-25 17:03:52 INFO  SampleTest:23 - &&&&&-------:  TC 002-Execution : &&&&------
+2019-05-25 17:04:00 INFO  SampleTest:40 - -- Verify Response Body -----------
+2019-05-25 17:04:00 INFO  SampleTest:42 - POST Message:{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'EmployeeName:w' for key 'employee_name_unique'}}
+2019-05-25 17:04:00 INFO  SampleTest:64 - Status Code is :200
+2019-05-25 17:04:00 INFO  SampleTest:76 - -----  : TESTCASE 02 Execution Completed: ----------
+2019-05-25 17:06:34 INFO  SampleTest:23 - &&&&&-------:  TC 002-Execution : &&&&------
+2019-05-25 17:06:42 INFO  SampleTest:40 - -- Verify Response Body -----------
+2019-05-25 17:06:42 INFO  SampleTest:42 - POST Message:{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'EmployeeName:O' for key 'employee_name_unique'}}
+2019-05-25 17:06:42 INFO  SampleTest:64 - Status Code is :200
+2019-05-25 17:06:42 INFO  SampleTest:76 - -----  : TESTCASE 02 Execution Completed: ----------
+2019-05-25 17:08:16 INFO  SampleTest:23 - &&&&&-------:  TC 002-Execution : &&&&------
+2019-05-25 17:08:23 INFO  SampleTest:40 - -- Verify Response Body -----------
+2019-05-25 17:08:23 INFO  SampleTest:42 - POST Message:{"name":"EmployeeName:L","salary":"35491","age":"Di","id":"10922"}
+2019-05-25 17:08:23 INFO  SampleTest:64 - Status Code is :200
+2019-05-25 17:08:23 INFO  SampleTest:76 - -----  : TESTCASE 02 Execution Completed: ----------
+2019-05-25 17:15:31 INFO  SampleTest:23 - &&&&&-------:  TC 002-Execution : &&&&------
+2019-05-25 17:15:39 INFO  SampleTest:89 - &&&&& :Verifying Content Type :&&&&&
+2019-05-25 17:15:39 INFO  SampleTest:91 - Content type is :text/html; charset=UTF-8
+2019-05-25 17:15:39 INFO  SampleTest:107 - &&&&& :Verifying Content-Encoding: :&&&&&
+2019-05-25 17:15:39 INFO  SampleTest:109 - ContentEncoding is :gzip
+2019-05-25 17:15:39 INFO  SampleTest:98 - &&&&& :Verifying Server: :&&&&&
+2019-05-25 17:15:39 INFO  SampleTest:100 - Server Type is:nginx/1.14.1
+2019-05-25 17:15:39 INFO  SampleTest:40 - -- Verify Response Body -----------
+2019-05-25 17:15:39 INFO  SampleTest:42 - POST Message:{"name":"EmployeeName:V","salary":"34410","age":"la","id":"10943"}
+2019-05-25 17:15:39 INFO  SampleTest:64 - Status Code is :200
+2019-05-25 17:15:39 INFO  SampleTest:122 - -----  : TESTCASE 02 Execution Completed: ----------
+2019-05-25 17:17:45 INFO  SampleTest:23 - &&&&&-------:  TC 002-Execution : &&&&------
+2019-05-25 17:17:53 INFO  SampleTest:91 - &&&&& :Verifying Content Type :&&&&&
+2019-05-25 17:17:53 INFO  SampleTest:93 - Content type is :text/html; charset=UTF-8
+2019-05-25 17:17:53 INFO  SampleTest:70 - &&&&& Verifying ResponseTime &&&&
+2019-05-25 17:17:53 INFO  SampleTest:72 - Response Time is :1825
+2019-05-25 17:17:53 WARN  SampleTest:75 - Response Time is Greater Then 2000
+2019-05-25 17:17:53 INFO  SampleTest:109 - &&&&& :Verifying Content-Encoding: :&&&&&
+2019-05-25 17:17:53 INFO  SampleTest:111 - ContentEncoding is :gzip
+2019-05-25 17:17:53 INFO  SampleTest:100 - &&&&& :Verifying Server: :&&&&&
+2019-05-25 17:17:53 INFO  SampleTest:102 - Server Type is:nginx/1.14.1
+2019-05-25 17:17:53 INFO  SampleTest:82 - ------Verifying Status Line----------
+2019-05-25 17:17:53 INFO  SampleTest:84 - Status Line is:HTTP/1.1 200 OK
+2019-05-25 17:17:53 INFO  SampleTest:40 - -- Verify Response Body -----------
+2019-05-25 17:17:53 INFO  SampleTest:42 - POST Message:{"name":"EmployeeName:u","salary":"57629","age":"cL","id":"10948"}
+2019-05-25 17:17:53 INFO  SampleTest:64 - Status Code is :200
+2019-05-25 17:17:53 INFO  SampleTest:124 - -----  : TESTCASE 02 Execution Completed: ----------
+2019-05-25 17:30:16 INFO  SampleTest:23 - &&&&&-------:  TC 002-Execution : &&&&------
+2019-05-25 17:30:23 INFO  SampleTest:92 - &&&&& :Verifying Content Type :&&&&&
+2019-05-25 17:30:23 INFO  SampleTest:94 - Content type is :text/html; charset=UTF-8
+2019-05-25 17:30:23 INFO  SampleTest:71 - &&&&& Verifying ResponseTime &&&&
+2019-05-25 17:30:23 INFO  SampleTest:73 - Response Time is :1758
+2019-05-25 17:30:23 WARN  SampleTest:76 - Response Time is Greater Then 2000
+2019-05-25 17:30:23 INFO  SampleTest:110 - &&&&& :Verifying Content-Encoding: :&&&&&
+2019-05-25 17:30:23 INFO  SampleTest:112 - ContentEncoding is :gzip
+2019-05-25 17:30:23 INFO  SampleTest:101 - &&&&& :Verifying Server: :&&&&&
+2019-05-25 17:30:23 INFO  SampleTest:103 - Server Type is:nginx/1.14.1
+2019-05-25 17:30:23 INFO  SampleTest:83 - ------Verifying Status Line----------
+2019-05-25 17:30:23 INFO  SampleTest:85 - Status Line is:HTTP/1.1 200 OK
+2019-05-25 17:30:23 INFO  SampleTest:40 - -- Verify Response Body -----------
+2019-05-25 17:30:23 INFO  SampleTest:42 - POST Message:{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'EmployeeName:L' for key 'employee_name_unique'}}
+2019-05-25 17:30:23 INFO  SampleTest:65 - Status Code is :200
+2019-05-25 17:30:23 INFO  SampleTest:125 - -----  : TESTCASE 02 Execution Completed: ----------
+2019-05-25 17:37:29 INFO  SampleTest:23 - &&&&&-------:  TC 002-Execution : &&&&------
+2019-05-25 17:37:36 INFO  SampleTest:92 - &&&&& :Verifying Content Type :&&&&&
+2019-05-25 17:37:36 INFO  SampleTest:94 - Content type is :text/html; charset=UTF-8
+2019-05-25 17:37:36 INFO  SampleTest:71 - &&&&& Verifying ResponseTime &&&&
+2019-05-25 17:37:36 INFO  SampleTest:73 - Response Time is :1605
+2019-05-25 17:37:36 WARN  SampleTest:76 - Response Time is Greater Then 2000
+2019-05-25 17:37:36 INFO  SampleTest:110 - &&&&& :Verifying Content-Encoding: :&&&&&
+2019-05-25 17:37:36 INFO  SampleTest:112 - ContentEncoding is :gzip
+2019-05-25 17:37:36 INFO  SampleTest:101 - &&&&& :Verifying Server: :&&&&&
+2019-05-25 17:37:36 INFO  SampleTest:103 - Server Type is:nginx/1.14.1
+2019-05-25 17:37:36 INFO  SampleTest:83 - ------Verifying Status Line----------
+2019-05-25 17:37:36 INFO  SampleTest:85 - Status Line is:HTTP/1.1 200 OK
+2019-05-25 17:37:36 INFO  SampleTest:40 - -- Verify Response Body -----------
+2019-05-25 17:37:36 INFO  SampleTest:42 - POST Message:{"name":"EmployeeName:j","salary":"60198","age":"Nm","id":"10988"}
+2019-05-25 17:37:36 INFO  SampleTest:65 - Status Code is :200
+2019-05-25 17:37:36 INFO  SampleTest:125 - -----  : TESTCASE 02 Execution Completed: ----------
+2019-05-25 17:38:12 INFO  SampleTest:23 - &&&&&-------:  TC 002-Execution : &&&&------
+2019-05-25 17:38:20 INFO  SampleTest:92 - &&&&& :Verifying Content Type :&&&&&
+2019-05-25 17:38:20 INFO  SampleTest:94 - Content type is :text/html; charset=UTF-8
+2019-05-25 17:38:20 INFO  SampleTest:71 - &&&&& Verifying ResponseTime &&&&
+2019-05-25 17:38:20 INFO  SampleTest:73 - Response Time is :1626
+2019-05-25 17:38:20 WARN  SampleTest:76 - Response Time is Greater Then 2000
+2019-05-25 17:38:20 INFO  SampleTest:110 - &&&&& :Verifying Content-Encoding: :&&&&&
+2019-05-25 17:38:20 INFO  SampleTest:112 - ContentEncoding is :gzip
+2019-05-25 17:38:20 INFO  SampleTest:101 - &&&&& :Verifying Server: :&&&&&
+2019-05-25 17:38:20 INFO  SampleTest:103 - Server Type is:nginx/1.14.1
+2019-05-25 17:38:20 INFO  SampleTest:83 - ------Verifying Status Line----------
+2019-05-25 17:38:20 INFO  SampleTest:85 - Status Line is:HTTP/1.1 200 OK
+2019-05-25 17:38:20 INFO  SampleTest:50 - ----- Get Employee ID ----------
+2019-05-25 17:38:23 INFO  SampleTest:40 - -- Verify Response Body -----------
+2019-05-25 17:38:23 INFO  SampleTest:42 - POST Message:{"name":"EmployeeName:f","salary":"94432","age":"Wa","id":"10990"}
+2019-05-25 17:38:23 INFO  SampleTest:65 - Status Code is :200
+2019-05-25 17:38:23 INFO  SampleTest:125 - -----  : TESTCASE 02 Execution Completed: ----------
+2019-05-25 17:40:19 INFO  SampleTest:23 - &&&&&-------:  TC 002-Execution : &&&&------
+2019-05-25 17:40:27 INFO  SampleTest:92 - &&&&& :Verifying Content Type :&&&&&
+2019-05-25 17:40:27 INFO  SampleTest:94 - Content type is :text/html; charset=UTF-8
+2019-05-25 17:40:27 INFO  SampleTest:71 - &&&&& Verifying ResponseTime &&&&
+2019-05-25 17:40:27 INFO  SampleTest:73 - Response Time is :1727
+2019-05-25 17:40:27 WARN  SampleTest:76 - Response Time is Greater Then 2000
+2019-05-25 17:40:27 INFO  SampleTest:110 - &&&&& :Verifying Content-Encoding: :&&&&&
+2019-05-25 17:40:27 INFO  SampleTest:112 - ContentEncoding is :gzip
+2019-05-25 17:40:27 INFO  SampleTest:101 - &&&&& :Verifying Server: :&&&&&
+2019-05-25 17:40:27 INFO  SampleTest:103 - Server Type is:nginx/1.14.1
+2019-05-25 17:40:27 INFO  SampleTest:83 - ------Verifying Status Line----------
+2019-05-25 17:40:27 INFO  SampleTest:85 - Status Line is:HTTP/1.1 200 OK
+2019-05-25 17:40:27 INFO  SampleTest:50 - ----- Get Employee ID ----------
+2019-05-25 17:40:30 INFO  SampleTest:40 - -- Verify Response Body -----------
+2019-05-25 17:40:30 INFO  SampleTest:42 - POST Message:{"name":"EmployeeName:R","salary":"23036","age":"eQ","id":"10993"}
+2019-05-25 17:40:30 INFO  SampleTest:65 - Status Code is :200
+2019-05-25 17:40:30 INFO  SampleTest:125 - -----  : TESTCASE 02 Execution Completed: ----------
+2019-05-25 17:53:02 INFO  SampleTest:23 - &&&&&-------:  TC 002-Execution : &&&&------
+2019-05-25 17:53:10 INFO  SampleTest:92 - &&&&& :Verifying Content Type :&&&&&
+2019-05-25 17:53:10 INFO  SampleTest:94 - Content type is :text/html; charset=UTF-8
+2019-05-25 17:53:10 INFO  SampleTest:71 - &&&&& Verifying ResponseTime &&&&
+2019-05-25 17:53:10 INFO  SampleTest:73 - Response Time is :1629
+2019-05-25 17:53:10 WARN  SampleTest:76 - Response Time is Greater Then 2000
+2019-05-25 17:53:10 INFO  SampleTest:110 - &&&&& :Verifying Content-Encoding: :&&&&&
+2019-05-25 17:53:10 INFO  SampleTest:112 - ContentEncoding is :gzip
+2019-05-25 17:53:10 INFO  SampleTest:101 - &&&&& :Verifying Server: :&&&&&
+2019-05-25 17:53:10 INFO  SampleTest:103 - Server Type is:nginx/1.14.1
+2019-05-25 17:53:10 INFO  SampleTest:83 - ------Verifying Status Line----------
+2019-05-25 17:53:10 INFO  SampleTest:85 - Status Line is:HTTP/1.1 200 OK
+2019-05-25 17:53:10 INFO  SampleTest:50 - ----- Get Employee ID ----------
+2019-05-25 17:53:10 INFO  SampleTest:40 - -- Verify Response Body -----------
+2019-05-25 17:53:10 INFO  SampleTest:42 - POST Message:{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'EmployeeName:o' for key 'employee_name_unique'}}
+2019-05-25 17:53:10 INFO  SampleTest:65 - Status Code is :200
+2019-05-25 17:53:10 INFO  SampleTest:125 - -----  : TESTCASE 02 Execution Completed: ----------
+2019-05-25 17:54:21 INFO  SampleTest:23 - &&&&&-------:  TC 002-Execution : &&&&------
+2019-05-25 17:54:29 INFO  SampleTest:92 - &&&&& :Verifying Content Type :&&&&&
+2019-05-25 17:54:29 INFO  SampleTest:94 - Content type is :text/html; charset=UTF-8
+2019-05-25 17:54:29 INFO  SampleTest:71 - &&&&& Verifying ResponseTime &&&&
+2019-05-25 17:54:29 INFO  SampleTest:73 - Response Time is :1707
+2019-05-25 17:54:29 WARN  SampleTest:76 - Response Time is Greater Then 2000
+2019-05-25 17:54:29 INFO  SampleTest:110 - &&&&& :Verifying Content-Encoding: :&&&&&
+2019-05-25 17:54:29 INFO  SampleTest:112 - ContentEncoding is :gzip
+2019-05-25 17:54:29 INFO  SampleTest:101 - &&&&& :Verifying Server: :&&&&&
+2019-05-25 17:54:29 INFO  SampleTest:103 - Server Type is:nginx/1.14.1
+2019-05-25 17:54:29 INFO  SampleTest:83 - ------Verifying Status Line----------
+2019-05-25 17:54:29 INFO  SampleTest:85 - Status Line is:HTTP/1.1 200 OK
+2019-05-25 17:54:29 INFO  SampleTest:50 - ----- Get Employee ID ----------
+2019-05-25 17:54:32 INFO  SampleTest:40 - -- Verify Response Body -----------
+2019-05-25 17:54:32 INFO  SampleTest:42 - POST Message:{"name":"EmployeeName:D","salary":"02314","age":"oy","id":"11011"}
+2019-05-25 17:54:32 INFO  SampleTest:65 - Status Code is :200
+2019-05-25 17:54:32 INFO  SampleTest:125 - -----  : TESTCASE 02 Execution Completed: ----------
+2019-05-25 17:57:14 INFO  SampleTest:23 - &&&&&-------:  TC 003-Execution : &&&&------
+2019-05-25 17:57:22 INFO  SampleTest:91 - &&&&& :Verifying Content Type :&&&&&
+2019-05-25 17:57:22 INFO  SampleTest:93 - Content type is :text/html; charset=UTF-8
+2019-05-25 17:57:22 INFO  SampleTest:70 - &&&&& Verifying ResponseTime &&&&
+2019-05-25 17:57:22 INFO  SampleTest:72 - Response Time is :1690
+2019-05-25 17:57:22 WARN  SampleTest:75 - Response Time is Greater Then 2000
+2019-05-25 17:57:22 INFO  SampleTest:109 - &&&&& :Verifying Content-Encoding: :&&&&&
+2019-05-25 17:57:22 INFO  SampleTest:111 - ContentEncoding is :gzip
+2019-05-25 17:57:22 INFO  SampleTest:100 - &&&&& :Verifying Server: :&&&&&
+2019-05-25 17:57:22 INFO  SampleTest:102 - Server Type is:nginx/1.14.1
+2019-05-25 17:57:22 INFO  SampleTest:82 - ------Verifying Status Line----------
+2019-05-25 17:57:22 INFO  SampleTest:84 - Status Line is:HTTP/1.1 200 OK
+2019-05-25 17:57:22 INFO  SampleTest:39 - -- Verify Response Body -----------
+2019-05-25 17:57:22 INFO  SampleTest:41 - POST Message:{"name":"EmployeeName:L","salary":"07051","age":"xH"}
+2019-05-25 17:57:22 INFO  SampleTest:64 - Status Code is :200
+2019-05-25 17:57:22 INFO  SampleTest:124 - -----  : TESTCASE 02 Execution Completed: ----------
+2019-05-25 17:57:55 INFO  SampleTest:23 - &&&&&-------:  TC 003-Execution : &&&&------
+2019-05-25 17:58:03 INFO  SampleTest:91 - &&&&& :Verifying Content Type :&&&&&
+2019-05-25 17:58:03 INFO  SampleTest:93 - Content type is :text/html; charset=UTF-8
+2019-05-25 17:58:03 INFO  SampleTest:70 - &&&&& Verifying ResponseTime &&&&
+2019-05-25 17:58:03 INFO  SampleTest:72 - Response Time is :1991
+2019-05-25 17:58:03 WARN  SampleTest:75 - Response Time is Greater Then 2000
+2019-05-25 17:58:03 INFO  SampleTest:109 - &&&&& :Verifying Content-Encoding: :&&&&&
+2019-05-25 17:58:03 INFO  SampleTest:111 - ContentEncoding is :gzip
+2019-05-25 17:58:03 INFO  SampleTest:100 - &&&&& :Verifying Server: :&&&&&
+2019-05-25 17:58:03 INFO  SampleTest:102 - Server Type is:nginx/1.14.1
+2019-05-25 17:58:03 INFO  SampleTest:82 - ------Verifying Status Line----------
+2019-05-25 17:58:03 INFO  SampleTest:84 - Status Line is:HTTP/1.1 200 OK
+2019-05-25 17:58:03 INFO  SampleTest:49 - ----- Get Employee ID ----------
+2019-05-25 17:58:07 INFO  SampleTest:39 - -- Verify Response Body -----------
+2019-05-25 17:58:07 INFO  SampleTest:41 - POST Message:{"name":"EmployeeName:R","salary":"63220","age":"Lw"}
+2019-05-25 17:58:07 INFO  SampleTest:64 - Status Code is :200
+2019-05-25 17:58:07 INFO  SampleTest:124 - -----  : TESTCASE 02 Execution Completed: ----------
+2019-05-25 18:13:36 INFO  SampleTest:25 - &&&&&-------:  TC 003-Execution : &&&&------
+2019-05-25 18:15:34 INFO  SampleTest:23 - &&&&&-------:  TC 002-Execution : &&&&------
+2019-05-25 18:15:41 INFO  SampleTest:89 - &&&&& :Verifying Content Type :&&&&&
+2019-05-25 18:15:41 INFO  SampleTest:91 - Content type is :text/html; charset=UTF-8
+2019-05-25 18:15:41 INFO  SampleTest:68 - &&&&& Verifying ResponseTime &&&&
+2019-05-25 18:15:41 INFO  SampleTest:70 - Response Time is :1710
+2019-05-25 18:15:41 WARN  SampleTest:73 - Response Time is Greater Then 2000
+2019-05-25 18:15:41 INFO  SampleTest:107 - &&&&& :Verifying Content-Encoding: :&&&&&
+2019-05-25 18:15:41 INFO  SampleTest:109 - ContentEncoding is :gzip
+2019-05-25 18:15:41 INFO  SampleTest:98 - &&&&& :Verifying Server: :&&&&&
+2019-05-25 18:15:41 INFO  SampleTest:100 - Server Type is:nginx/1.14.1
+2019-05-25 18:15:41 INFO  SampleTest:80 - ------Verifying Status Line----------
+2019-05-25 18:15:41 INFO  SampleTest:82 - Status Line is:HTTP/1.1 200 OK
+2019-05-25 18:15:41 INFO  SampleTest:50 - ----- Get Employee ID ----------
+2019-05-25 18:15:42 INFO  SampleTest:40 - -- Verify Response Body -----------
+2019-05-25 18:15:42 INFO  SampleTest:42 - POST Message:{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'EmployeeName:w' for key 'employee_name_unique'}}
+2019-05-25 18:15:42 INFO  SampleTest:62 - Status Code is :200
+2019-05-25 18:15:42 INFO  SampleTest:122 - -----  : TESTCASE 02 Execution Completed: ----------
+2019-05-25 18:17:13 INFO  SampleTest:23 - &&&&&-------:  TC 002-Execution : &&&&------
+2019-05-25 18:17:20 INFO  SampleTest:89 - &&&&& :Verifying Content Type :&&&&&
+2019-05-25 18:17:20 INFO  SampleTest:91 - Content type is :text/html; charset=UTF-8
+2019-05-25 18:17:20 INFO  SampleTest:68 - &&&&& Verifying ResponseTime &&&&
+2019-05-25 18:17:20 INFO  SampleTest:70 - Response Time is :1827
+2019-05-25 18:17:20 WARN  SampleTest:73 - Response Time is Greater Then 2000
+2019-05-25 18:17:20 INFO  SampleTest:107 - &&&&& :Verifying Content-Encoding: :&&&&&
+2019-05-25 18:17:20 INFO  SampleTest:109 - ContentEncoding is :gzip
+2019-05-25 18:17:20 INFO  SampleTest:98 - &&&&& :Verifying Server: :&&&&&
+2019-05-25 18:17:20 INFO  SampleTest:100 - Server Type is:nginx/1.14.1
+2019-05-25 18:17:20 INFO  SampleTest:80 - ------Verifying Status Line----------
+2019-05-25 18:17:20 INFO  SampleTest:82 - Status Line is:HTTP/1.1 200 OK
+2019-05-25 18:17:20 INFO  SampleTest:50 - ----- Get Employee ID ----------
+2019-05-25 18:17:20 INFO  SampleTest:40 - -- Verify Response Body -----------
+2019-05-25 18:17:20 INFO  SampleTest:42 - POST Message:{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'EmployeeName:U' for key 'employee_name_unique'}}
+2019-05-25 18:17:20 INFO  SampleTest:62 - Status Code is :200
+2019-05-25 18:17:20 INFO  SampleTest:117 - -----  : TESTCASE 02 Execution Completed: ----------
+2019-05-26 10:17:39 INFO  SampleTest:23 - &&&&&-------:  TC 002-Execution : &&&&------
+2019-05-26 10:17:48 INFO  SampleTest:90 - &&&&& :Verifying Content Type :&&&&&
+2019-05-26 10:17:48 INFO  SampleTest:92 - Content type is :text/html; charset=UTF-8
+2019-05-26 10:17:48 INFO  SampleTest:69 - &&&&& Verifying ResponseTime &&&&
+2019-05-26 10:17:48 INFO  SampleTest:71 - Response Time is :2499
+2019-05-26 10:17:48 WARN  SampleTest:74 - Response Time is Greater Then 2000
+2019-05-26 10:17:48 INFO  SampleTest:108 - &&&&& :Verifying Content-Encoding: :&&&&&
+2019-05-26 10:17:48 INFO  SampleTest:110 - ContentEncoding is :gzip
+2019-05-26 10:17:48 INFO  SampleTest:99 - &&&&& :Verifying Server: :&&&&&
+2019-05-26 10:17:48 INFO  SampleTest:101 - Server Type is:nginx/1.14.1
+2019-05-26 10:17:48 INFO  SampleTest:81 - ------Verifying Status Line----------
+2019-05-26 10:17:48 INFO  SampleTest:83 - Status Line is:HTTP/1.1 200 OK
+2019-05-26 10:17:48 INFO  SampleTest:40 - -- Verify Response Body -----------
+2019-05-26 10:17:48 INFO  SampleTest:42 - POST Message:{"name":"EmployeeName:a","salary":"43411","age":"aG","id":"11255"}
+2019-05-26 10:17:48 INFO  SampleTest:63 - Status Code is :200
+2019-05-26 10:17:48 INFO  SampleTest:118 - -----  : TESTCASE 02 Execution Completed: ----------
